@@ -1,0 +1,15 @@
+../Core/Src/main.c:86:6:servo_up	8	static
+../Core/Src/main.c:96:6:servo_down	8	static
+../Core/Src/main.c:106:6:motors_off	8	static
+../Core/Src/main.c:122:6:move	8	static
+../Core/Src/main.c:127:6:stop	8	static
+../Core/Src/main.c:133:6:tube_cutting	8	static
+../Core/Src/main.c:203:6:buttons_Init	4	static
+../Core/Src/main.c:213:6:getButton	24	static
+../Core/Src/main.c:266:6:menu_update	32	static
+../Core/Src/main.c:343:5:main	8	static
+../Core/Src/main.c:408:6:SystemClock_Config	72	static
+../Core/Src/main.c:448:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:486:13:MX_TIM4_Init	48	static
+../Core/Src/main.c:535:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:598:6:Error_Handler	4	static,ignoring_inline_asm
